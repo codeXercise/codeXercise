@@ -9,3 +9,4 @@ Aufgabe: Finde aus dem Datensatz heraus, wie viele raketen getestet wurden.
 ## Aufgabe 2
 Nun fragst du dich, welches raketenmodell am sichersten ist.  
 Aufgabe: Finde aus dem Datensatz heraus, welches raketenmodell am sichersten ist.
+Beachte: Es kann sein, dass ein raketenmodell mehr erforscht wurde als ein anderes.
